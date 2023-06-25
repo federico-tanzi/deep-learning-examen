@@ -1,0 +1,4 @@
+Jupyter
+torch
+ipython
+pandas
